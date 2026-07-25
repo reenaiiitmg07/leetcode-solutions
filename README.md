@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0480-sliding-window-median) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0480-sliding-window-median) |
 ## Heap (Priority Queue)
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
