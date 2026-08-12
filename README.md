@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0480-sliding-window-median) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
