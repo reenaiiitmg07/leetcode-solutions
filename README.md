@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0502-ipo) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0268-missing-number) |
 | [0502-ipo](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0502-ipo) |
@@ -63,5 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/reenaiiitmg07/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
